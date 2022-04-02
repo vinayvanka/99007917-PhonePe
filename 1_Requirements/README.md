@@ -1,9 +1,7 @@
  # Requirements
 
  ## Introduction
- Unit connverter is an utility that allows user to convert unit values according to the user needs and requirement. This project is titled as **Unit Converter Utility** 
- and devloped using c language.
- when a user want to convert a value in one unit to another, user need to entre their required conversion type by entering their option shown in the menu, after that user need to enter value  to be converted, after this they will get their desired output. 
+ PhonePe is a mobile payment platform using which you can transfer money using UPI, recharge phone numbers, pay utility bills, etc. PhonePe works on the Unified Payment Interface (UPI) system and all you need is to feed in your bank account details and create a UPI ID. There is no need to recharge the wallet, because the money will be directly debited from your bank account at the click of a button in a safe and secure manner.
 
  ### Advantages
  -   Easy and faster access
@@ -33,17 +31,16 @@
   
  ## Weaknesses
    
- * Limeted conversions.
  * Needs graphical user interface.
    
  ## Opportunities
   
- * It can be used in different work places and by different needs. (example: physics lab, calculating distance from one form to another etc.) 
+ * It can be used in different work places and by different needs.
  * User friendly.
-
+ * it makes transactions easy
  ## Threats
   
- * limited  access.
+ * server error may occurs
   
 
 
@@ -53,29 +50,29 @@
  * Anyone can use this by accessing its main menu and need to choose there  required field of choice and need to enter the value to get there desired output.
 
  ## What
- * It's an unit converter utility to convert units, whic will hwpl user to converts units from one form to another form  .
+ * PhonePe is a mobile payment platform using which you can transfer money using UPI, recharge phone numbers, pay utility bills, etc.
 
  ## When
  * It is available to user 24X7, 365 days without any issues and works infinite times.
 
  ## Where
  * We can use this at different palces and this is platform independent, it will work in any platform.
- * It can be used in sintefic calculators or in maths or physics labs. 
+ * PhonePe is a mobile payment platform using which you can transfer money using UPI. 
  ## How
- This application was developed in C language to avoid the complexity and to keep it simple. 
+ This application was developed in python language to avoid the complexity and to keep it simple. 
 
 # High Level Requirements
 |HLR|     Description  |
 |------|  --------------|
 |HLR_1|   Accurate value     |
-|HLR_2|   conversion factors |
+|HLR_2|   bank account link with phone pe |
 |HLR_3|   Basic conversions  |
 
             
 # Low Level Requirements
 |LLR|     Description |
 |------|  ------------|
-|LLR_1|   limited attempts |
+|LLR_1|   easy transactions |
 |LLR_2|   Clean UI         |
-|LLR_3|   User friendly    | 
+|LLR_3|   UPI, recharge phone numbers, pay utility bills, etc.   | 
 
