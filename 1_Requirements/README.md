@@ -60,19 +60,29 @@
  * PhonePe is a mobile payment platform using which you can transfer money using UPI. 
  ## How
  This application was developed in python language to avoid the complexity and to keep it simple. 
-
+------------------------------------------------------------------
 # High Level Requirements
 |HLR|     Description  |
 |------|  --------------|
 |HLR_1|   Accurate value     |
 |HLR_2|   bank account link with phone pe |
 |HLR_3|   Basic conversions  |
+|HLR_4|   Recivers also need to have phonepe  |
 
             
-# Low Level Requirements
-|LLR|     Description |
-|------|  ------------|
-|LLR_1|   easy transactions |
-|LLR_2|   Clean UI         |
-|LLR_3|   UPI, recharge phone numbers, pay utility bills, etc.   | 
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+
+## Low-Level Requirement
+|ID|Low Level Requirement for HLR_1 | |ID|Low Level Requirement for HLR_2|
+|------|  ------------|--|--|--|
+|LLR_1|phonepe gives a accurate values | |LLR_1|phone number link with bank account|
+|LLR_2|it is not supposed to give worng statements| |LLR_2|sim card need to insert in same device|
+
+
+|ID|Low Level Requirement for HLR_3 | |ID|Low Level Requirement for HLR_4|
+|------|  ------------|--|--|--|
+|LLR_1| it have conversions like bank to bank and self| |LLR_1| Recivers also need to have phonepe|
+|LLR_2|It also UPI, recharge phone numbers, pay utility bills, etc.| |LLR_2|Internet is needed for transactions|
 
