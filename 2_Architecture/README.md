@@ -1,2 +1,2 @@
 # Architecture
-[![ARCHITECTURE](https://github.com/vinayvanka/M1_Unit_Converter_Util/blob/main/2_Architecture/flow%20chat.png)]
+[![ARCHITECTURE](https://github.com/vinayvanka/99007917-PhonePe/blob/main/2_Architecture/flowchart.png)]
